@@ -1,0 +1,83 @@
+@font-face {
+	font-family: "Nautilus";
+	src: url(Nautilus.otf);
+}
+
+body {
+	background-color: #FFBAD2;
+	font-family: "Nautilus", "Helvetica", sans-serif;
+	font-size: 20px;
+}
+
+img {
+	width: 50%;
+}
+
+li.active {
+    background-color: red;
+}
+
+.firstrow {
+	background-color: #00BEFE;
+}
+
+.secondrow {
+	margin-top: 50px;
+}
+
+ h2{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.poprocks img {
+	float: left;
+	padding-right: 20px;
+}
+ 
+.icecream img {
+	width: 60%;
+	float: right;
+	padding-left: 20px;
+}
+
+.navbar {
+	background-color: #00BEFE;
+}
+.jumbotron {
+	background-color: #FFBAD2;
+	margin-top: 50px;
+}
+
+.jumbotron img {
+	width: 80%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+
+.jumbotron h2 {
+	text-align: center;
+	color: #3272d9;
+}
+
+.footer {
+	height: 80px;
+	text-align: center;
+	background-color: #00BEFE;
+}
+
+footer ul {
+	list-style: none;
+	padding-top: 15px;
+}
+
+footer ul li {
+	display: inline;
+	padding: 10px 10px;
+}
+
+footer img {
+	height: 40px;
+	width: 40px;
+}

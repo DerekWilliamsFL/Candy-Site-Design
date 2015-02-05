@@ -1,0 +1,62 @@
+@font-face {
+	font-family: "Nautilus";
+	src: url(Nautilus.otf);
+}
+
+body {
+	background-color: #FFBAD2;
+	font-family: "Nautilus", "Helvetica", sans-serif;
+	font-size: 20px;
+}
+
+.navbar {
+	background-color: #00BEFE;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	margin-bottom: 15px;
+	color: #3272d9;
+}
+.container ul img {
+	width: 100%;
+	height: 250px;
+	margin: 10px;
+	border: #00BEFE solid 4px;
+	border-radius: 5px;
+}
+.container {
+	margin-top: 65px;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+}
+
+.container ul li {
+	list-style: none;
+}
+
+.footer {
+	height: 80px;
+	text-align: center;
+	background-color: #00BEFE;
+	margin-top: 15px;
+}
+
+footer ul {
+	list-style: none;
+	padding-top: 15px;
+}
+
+footer ul li {
+	display: inline;
+	padding: 10px 10px;
+}
+
+footer img {
+	height: 40px;
+	width: 40px;
+}
