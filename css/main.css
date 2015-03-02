@@ -30,7 +30,7 @@ li.active {
 	margin-bottom: 30px;
 }
 
-.poprocks img {
+#poprocks {
 	float: left;
 	padding-right: 20px;
 }
@@ -65,6 +65,7 @@ li.active {
 	height: 80px;
 	text-align: center;
 	background-color: #00BEFE;
+	margin-top: 50px;
 }
 
 footer ul {
